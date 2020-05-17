@@ -1,1 +1,8 @@
-# sys_info_page.sh
+<html>
+      <head>
+              <title>System Information Report</title>
+      </head>
+      <body>
+              <h1>System Information Report</h1>
+      </body>
+</html>
